@@ -1,0 +1,1 @@
+insert into book (author, launch_date, price, title) values ('Olavo de Carvalho', current_date(), 108, 'O Imbecil Coletivo');
